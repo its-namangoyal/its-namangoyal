@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Naman Goyal
+- 👀 I’m interested in Web Developement, Algorithms, Data Analyst
+- 🌱 I’m currently learning Reacts JS
+- 💞️ I’m looking to collaborate on Open Sourse Projects
+- 📫 How to reach me at https://www.linkedin.com/in/-naman-goyal/ 
