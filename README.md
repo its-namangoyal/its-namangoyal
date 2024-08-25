@@ -1,22 +1,21 @@
 ![Banner](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
-<h3 align="center">Full-Stack Developer | Expert in High-Traffic Web Apps, API Development, and Data Security</h3>
+<h3 align="center">Full-Stack Developer | Software Engineer | Data Analyst | Data Enthusiast | API Development |  Data Security</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=its-namangoyal&label=Profile%20views&color=0e75b6&style=flat" alt="its-namangoyal" />
 </p>
-- 🌱 I’m currently learning SpringBoot
-
-- 💬 Ask me about Full-Stack Development, API Creation, Data Security, Advanced Algorithms, High-Traffic Web
-Applications, and Innovative Tech Solutions.
-
+- 🌱 <strong>I’m currently learning SpringBoot </strong><br><br>
+- 🧔🏻‍♂️ <strong>About Me:</strong>About Me: Passionate Full Stack Developer with hands-on experience in building scalable applications and optimizing performance. Proficient in a wide range of technologies including React, Node.js, Django, and Python. Adept at designing complex systems and automating processes. Always eager to leverage data-driven solutions for impactful results. Explore my work and projects below! <br><br>
+- 💬 <Strong>Ask me about</Strong> Full-Stack Development, Artificial Intelligence, Big Data, API Creation, Data Security, Advanced Algorithms, High-Traffic Web Applications, and Innovative Tech Solutions.
+<br><br>
 📫 How to reach me: <a href="mailto:namangoyal1524@gmail.com">namangoyal1524@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/in/-naman-goyal/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/-naman-goyal/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="in/-naman-goyal/" height="30" width="40" /></a>
 </p>
