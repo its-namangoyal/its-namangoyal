@@ -1,17 +1,17 @@
 ![Banner](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer | Data Analyst | Data Enthusiast | API Development |  Data Security</h3>
+<h3 align="center">Data Analyst | Data Enthusiast| Software Engineer | API Development |  Data Security</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=its-namangoyal&label=Profile%20views&color=0e75b6&style=flat" alt="its-namangoyal" />
 </p>
-- 🌱 <strong>I’m currently learning SpringBoot </strong><br><br>
-- 🧔🏻‍♂️ <strong>About Me:</strong>About Me: Passionate Full Stack Developer with hands-on experience in building scalable applications and optimizing performance. Proficient in a wide range of technologies including React, Node.js, Django, and Python. Adept at designing complex systems and automating processes. Always eager to leverage data-driven solutions for impactful results. Explore my work and projects below! <br><br>
-- 💬 <Strong>Ask me about</Strong> Full-Stack Development, Artificial Intelligence, Big Data, API Creation, Data Security, Advanced Algorithms, High-Traffic Web Applications, and Innovative Tech Solutions.
+- 🌱 <strong>I’m currently learning Machine Learning </strong><br><br>
+- 🧔🏻‍♂️ <strong>About Me:</strong>About Me: Data Analyst with 2+ years of experience transforming complex data into actionable insights that drive business impact. Proficient in tools and technologies like Power BI, SQL, Python, and Excel, with hands-on experience in developing forecasting models, automating ETL processes, and visualizing performance KPIs. Adept at analyzing customer behavior, billing operations, and sales trends to uncover growth opportunities and reduce inefficiencies. Explore my data-driven projects and dashboards below! <br><br>
+- 💬 <Strong>Ask me about</Strong> Power BI Dashboarding, Sales Forecasting, Customer Lifetime Value (CLTV) Analysis, Predictive Modeling, Data Cleaning & ETL, SQL Optimization, Excel Analytics, and Business Intelligence Strategy.
 <br><br>
-📫 How to reach me: <a href="mailto:namangoyal1524@gmail.com">namangoyal1524@gmail.com</a>
+📫 How to reach me: <a href="mailto:namangoyal1524@gmail.com">namangoyal1511@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
