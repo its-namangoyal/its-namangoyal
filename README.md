@@ -1,9 +1,9 @@
 ![Banner](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
-<h3 align="center">Data Analyst | Software Engineer | Data Enthusiast | API & Dashboard Developer
+<h3 align="center">Data Analyst | Software Engineer | Data Enthusiast | API & Dashboard Developer</h3>
 
-Welcome to my GitHub! I specialize in building intelligent systems and tools that turn raw data into meaningful solutions. With a strong foundation in full-stack development and data analytics, I enjoy working at the intersection of engineering and business insight.</h3>
+<h2>Welcome to my GitHub! I specialize in building intelligent systems and tools that turn raw data into meaningful solutions. With a strong foundation in full-stack development and data analytics, I enjoy working at the intersection of engineering and business insight.</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
