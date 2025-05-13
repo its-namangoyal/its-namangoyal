@@ -1,14 +1,17 @@
 ![Banner](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
-<h3 align="center">Data Analyst | Data Enthusiast| Software Engineer | API Development |  Data Security</h3>
+<h3 align="center">Data Analyst | Software Engineer | Data Enthusiast | API & Dashboard Developer
+
+Welcome to my GitHub! I specialize in building intelligent systems and tools that turn raw data into meaningful solutions. With a strong foundation in full-stack development and data analytics, I enjoy working at the intersection of engineering and business insight.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=its-namangoyal&label=Profile%20views&color=0e75b6&style=flat" alt="its-namangoyal" />
 </p>
 - 🌱 <strong>I’m currently learning Machine Learning </strong><br><br>
-- 🧔🏻‍♂️ <strong>About Me:</strong>About Me: Data Analyst with 2+ years of experience transforming complex data into actionable insights that drive business impact. Proficient in tools and technologies like Power BI, SQL, Python, and Excel, with hands-on experience in developing forecasting models, automating ETL processes, and visualizing performance KPIs. Adept at analyzing customer behavior, billing operations, and sales trends to uncover growth opportunities and reduce inefficiencies. Explore my data-driven projects and dashboards below! <br><br>
+- 🧔🏻‍♂️ <strong>About Me:</strong>About Me: I am a Data Analyst and Software Engineer with 2+ years of experience delivering data-driven solutions that enable smarter business decisions. My work spans predictive analytics, dashboard development, and full-stack web application design.
+Proficient in Power BI, SQL, Python, and JavaScript, I have created machine learning models, automated ETL pipelines, and built scalable web platforms used by hundreds of users. I bring a structured, analytical approach to solving real-world problems across domains like customer analytics, billing optimization, and career recommendation systems. <br><br>
 - 💬 <Strong>Ask me about</Strong> Power BI Dashboarding, Sales Forecasting, Customer Lifetime Value (CLTV) Analysis, Predictive Modeling, Data Cleaning & ETL, SQL Optimization, Excel Analytics, and Business Intelligence Strategy.
 <br><br>
 📫 How to reach me: <a href="mailto:namangoyal1524@gmail.com">namangoyal1511@gmail.com</a>
