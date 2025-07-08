@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=its-namangoyal&label=Profile%20views&color=0e75b6&style=flat" alt="its-namangoyal" />
 </p>
 - 🌱 <strong>I’m currently learning Machine Learning </strong><br><br>
-- 🧔🏻‍♂️ <strong>About Me:</strong> I am a Data Analyst and Software Engineer with 2+ years of experience delivering data-driven solutions that enable smarter business decisions. My work spans predictive analytics, dashboard development, and full-stack web application design.
+- 🧔🏻‍♂️ <strong>About Me:</strong> I am a Data Analyst and Software Engineer with 3+ years of experience delivering data-driven solutions that enable smarter business decisions. My work spans predictive analytics, dashboard development, and full-stack web application design.
 Proficient in Power BI, SQL, Python, and JavaScript, I have created machine learning models, automated ETL pipelines, and built scalable web platforms used by hundreds of users. I bring a structured, analytical approach to solving real-world problems across domains like customer analytics, billing optimization, and career recommendation systems. <br><br>
 - 💬 <Strong>Ask me about</Strong> Power BI Dashboarding, Sales Forecasting, Customer Lifetime Value (CLTV) Analysis, Predictive Modeling, Data Cleaning & ETL, SQL Optimization, Excel Analytics, and Business Intelligence Strategy.
 <br><br>
